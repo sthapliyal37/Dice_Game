@@ -1,0 +1,51 @@
+#header{
+	border-bottom-style:solid;
+	border-bottom-width:5px;
+	text-align:center;
+	background-color:LightSteelBlue;
+	width:100%;
+	font-size:20px;
+	top:0px;
+
+}
+figure{
+	display:inline-block;
+}
+
+.diceimg{
+	display:inline-block;
+	border : 3px solid;
+	width : 70%;
+	margin:  auto auto;
+}
+.centered{
+	text-align:center
+}
+#t{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 20px;
+		text-align:center
+}
+#p{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 20px;
+	text-align:center
+}
+#h{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 20px;
+	text-align:center
+}
+p{
+font-size: 20px
+}
+footer{
+	position : fixed;
+	left:0;
+	bottom: 0;
+	width: 100%;
+	text-align:center;
+	border-top-style:solid;
+	border-top-width:5px;
+	background-color:Lightgray
+}
